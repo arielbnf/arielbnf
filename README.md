@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arielbnf
 - 👀 I’m interested in self-taught multiples programming languages 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, SQL and Linux
 - 💞️ I’m looking to collaborate on small project with multiples people using python.
 - 📫 How to reach me by email: bonifacioa2019@gmail.com
 
